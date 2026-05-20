@@ -1,7 +1,3 @@
-Open In IDEA
-
-一个可以通过浏览器快速打开本地 IDE 项目的工具，支持从 Web 页面、浏览器插件等场景，一键唤起本地 IntelliJ IDEA / Android Studio 等 JetBrains IDE。
-
 # Spring Boot Open In IDEA — 一键从浏览器跳转到 Controller 源码
 
 **Developer Toolchain · Spring Boot · IntelliJ IDEA**
